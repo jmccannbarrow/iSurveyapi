@@ -149,3 +149,5 @@ app.get('/', (req, res) => {
         app.listen(port);
 
         console.log(`Listening to server: http://localhost:${port}`);
+
+//app settings now take userid - no longer hardcoded
