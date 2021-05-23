@@ -30,7 +30,7 @@ const conn = mysql.createConnection({
 
   user: 'root',
 
-  password: '123456',
+  password: 'root',
 
   database: 'isurvey'
 
